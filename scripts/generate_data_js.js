@@ -96,10 +96,11 @@ const COLLEGE_DATA = {
 
   // Official Principal Profile & Desk Message
   principal: {
-    name: "Dr. Sunita Sharma",
-    title: "Principal & Professor",
-    qualification: "M.A., M.Phil., Ph.D. (Higher Education Leadership)",
-    experience: "24+ Years of Dedicated Service in Higher Education Haryana",
+    name: "Mrs. Archana Verma",
+    title: "Principal & Head of Institution",
+    department: "Office of the Principal / Administration",
+    qualification: "M.A., M.Phil., UGC-NET (Higher Education Leadership)",
+    experience: "20+ Years of Dedicated Service in Higher Education Haryana",
     photo: "assets/official/Principal.jpg",
     message: \`Welcome to Government College for Girls, Nacholi (Faridabad)!
 
@@ -276,12 +277,12 @@ I invite you to explore our vibrant college community and join us in this empowe
   // Faculty Directory from Official Records
   faculty: [
     {
-      name: "Dr. Sunita Sharma",
-      designation: "Principal & Professor",
-      department: "Administration & Academics",
-      qualification: "M.A., M.Phil., Ph.D.",
-      experience: "24 Years",
-      specialization: "Educational Governance, Institutional Growth & Leadership",
+      name: "Mrs. Archana Verma",
+      designation: "Principal & Head of Institution",
+      department: "Office of the Principal / Administration",
+      qualification: "M.A., M.Phil., UGC-NET",
+      experience: "20+ Years",
+      specialization: "Educational Governance, Institutional Growth & Administration",
       email: "principalgcgnacholi@gmail.com",
       phone: "+91 9953591834",
       photo: "assets/official/Principal.jpg",
@@ -406,7 +407,7 @@ I invite you to explore our vibrant college community and join us in this empowe
   // Right to Information (RTI) Information
   rtiDetails: {
     firstAppellateAuthority: {
-      name: "Dr. Sunita Sharma",
+      name: "Mrs. Archana Verma",
       designation: "Principal / First Appellate Authority (FAA)",
       contact: "+91 9953591834",
       email: "principalgcgnacholi@gmail.com"

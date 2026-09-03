@@ -1,0 +1,32 @@
+{
+  "lastSynced": "2026-09-03T13:55:09.956Z",
+  "officialUrl": "http://gcgnacholi.ac.in/",
+  "status": "ONLINE",
+  "noticesCount": 2,
+  "notices": [
+    {
+      "id": "NTC-25565",
+      "title": "Admission Schedule for MCOM Program...",
+      "date": "23/07/2025",
+      "category": "Admissions",
+      "badge": "LIVE NEW",
+      "fileUrl": "http://gcgnacholi.ac.in/images/24/Notice/Notice25565.pdf",
+      "description": "Admission Schedule for MCOM Program...",
+      "isNew": true,
+      "isOfficialLive": true,
+      "syncedAt": "2026-09-03T13:55:09.955Z"
+    },
+    {
+      "id": "NTC-25453",
+      "title": "Admission open for M.COM Program in GCG Nacholi...",
+      "date": "21/07/2025",
+      "category": "Admissions",
+      "badge": "Admissions",
+      "fileUrl": "http://gcgnacholi.ac.in/images/24/Notice/Notice25453.pdf",
+      "description": "Admission open for M.COM Program in GCG Nacholi...",
+      "isNew": true,
+      "isOfficialLive": true,
+      "syncedAt": "2026-09-03T13:55:09.955Z"
+    }
+  ]
+}

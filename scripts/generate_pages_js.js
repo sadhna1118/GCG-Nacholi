@@ -1080,7 +1080,7 @@ const PageContent = {
           <p>Decentralized Institutional Governance</p>
         </div>
         <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:16px; margin:20px 0;">
-          <div class="contact-card"><h4>1. Advisory & Finance Committee</h4><p>Dr. Sunita Sharma (Chairperson)</p></div>
+          <div class="contact-card"><h4>1. Advisory & Finance Committee</h4><p>Mrs. Archana Verma (Chairperson / Principal)</p></div>
           <div class="contact-card"><h4>2. Discipline & Proctorial Board</h4><p>Dr. Sushil Kumar Verma (Convenor)</p></div>
           <div class="contact-card"><h4>3. IQAC & NAAC Steering Committee</h4><p>Sh. Rakesh Kumar (Coordinator)</p></div>
           <div class="contact-card"><h4>4. Sports & Athletic Board</h4><p>Dr. Ritu Dahiya (Director Physical Ed.)</p></div>

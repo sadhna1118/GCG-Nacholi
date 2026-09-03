@@ -531,9 +531,9 @@ const indexHtmlContent = `<!DOCTYPE html>
           <div class="principal-desk-grid">
             <div class="principal-portrait-wrapper">
               <div class="principal-img-frame" style="border-radius:var(--radius-xl); overflow:hidden; border:4px solid var(--primary-light); box-shadow:var(--shadow-lg);">
-                <img src="assets/official/Principal.jpg" alt="Dr. Sunita Sharma - Principal GCG Nacholi" style="height:360px; width:100%; object-fit:cover; display:block;">
+                <img src="assets/official/Principal.jpg" alt="Mrs. Archana Verma - Principal GCG Nacholi" style="height:360px; width:100%; object-fit:cover; display:block;">
                 <div class="principal-badge-float" style="background:var(--primary-dark); color:#ffffff; padding:8px 16px; border-radius:var(--radius-full);">
-                  <i class="fas fa-user-tie" style="color:#fbbf24;"></i> Dr. Sunita Sharma • Principal
+                  <i class="fas fa-user-tie" style="color:#fbbf24;"></i> Mrs. Archana Verma • Principal
                 </div>
               </div>
             </div>
@@ -739,7 +739,7 @@ const indexHtmlContent = `<!DOCTYPE html>
         <button class="modal-close-btn" id="search-close-btn">&times;</button>
       </div>
       <div class="modal-body">
-        <input type="text" id="global-search-input" placeholder="Type keywords (e.g. BCA, Athletic Meet, Dr. Sunita, Scholarships)..." style="width:100%; padding:14px 18px; border:2px solid var(--primary-light); border-radius:var(--radius-lg); font-size:1rem; outline:none;">
+        <input type="text" id="global-search-input" placeholder="Type keywords (e.g. BCA, Athletic Meet, Mrs. Archana Verma, Scholarships)..." style="width:100%; padding:14px 18px; border:2px solid var(--primary-light); border-radius:var(--radius-lg); font-size:1rem; outline:none;">
         <div id="global-search-results" style="margin-top:16px; max-height:350px; overflow-y:auto;"></div>
       </div>
     </div>
